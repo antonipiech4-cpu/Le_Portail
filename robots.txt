@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://le-portail.ch/sitemap.xml
